@@ -1,0 +1,2 @@
+# JS Exercise 1
+This code shows how to carry out simple math operations, including addition, subtraction, multiplication, division, and modulus, as well as how to use the increment (++) and decrement (--) operators in JavaScript.

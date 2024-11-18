@@ -1,0 +1,2 @@
+# JS Exercise 3
+This code demonstrates how to use logical operators in JavaScript, including AND ( && ), OR ( | | ), and NOT ( ! ) operators. It checks two conditions—whether it is sunny and whether it is the weekend—to determine if going to the beach is possible, and then logs the results based on these conditions.

@@ -1,0 +1,2 @@
+# JS Exercise 2
+This code demonstrates how to use comparison operators in JavaScript, including equality (==), strict equality (===), inequality (!=), strict inequality (!==), and relational comparisons like greater than (>), less than (<), greater than or equal to (>=), and less than or equal to (<=). It also shows how JavaScript compares values and types in different scenarios.
