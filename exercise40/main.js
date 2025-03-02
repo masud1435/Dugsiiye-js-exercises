@@ -98,3 +98,5 @@ const videoElement = document.getElementById('cover');
             videoElement.playbackRate = speed;
         });
         videoElement.addEventListener('loadedmetadata', updateProgress);
+
+        // End of Course
