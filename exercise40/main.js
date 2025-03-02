@@ -12,8 +12,8 @@ const videoElement = document.getElementById('cover');
         const speedSelect = document.getElementById('speed');
 
         const videos = [
-    { title: 'Statistics', artist: 'Mohamed', cover: 'https://via.placeholder.com/250/4CAF50/FFFFFF?text=Sample+Video+1', src: 'videoplayback.mp4' },
-    { title: 'React JS', artist: 'Ustad Hamuda ', cover: 'https://via.placeholder.com/250/2196F3/FFFFFF?text=Big+Buck+Bunny', src: 'ReactJs MasterClass .mp4' },
+    { title: 'Tiktok', artist: 'Light', cover: 'https://via.placeholder.com/250/4CAF50/FFFFFF?text=Sample+Video+1', src: 'to.mp4' },
+    { title: 'Stay Focus', artist: 'inspiration ', cover: 'https://via.placeholder.com/250/2196F3/FFFFFF?text=Big+Buck+Bunny', src: 'focus.mp4' },
 ];
 
 
